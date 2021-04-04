@@ -1,2 +1,2 @@
 # QUIZ APP for android
-a simple quiz app for
+a simple quiz app for android 
